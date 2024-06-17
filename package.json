@@ -32,7 +32,7 @@
     "node-fetch": "^2.6.1",
     "node-fetch-cookies": "^2.0.3",
     "path": "^0.12.7",
-    "pdfkit": "^0.13.0",
+    "pdfkit": "^0.15.0",
     "ssl-express-www": "^3.0.8",
     "tiktok-scraper": "^1.4.36",
     "vm": "^0.1.0",
